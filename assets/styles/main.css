@@ -48,7 +48,6 @@ h2 {
     height: 430px;
     display: flex;
     flex-wrap: wrap;
-    border: 1px solid black;
     gap: 10px;
     transform-style: preserve-3d;
     perspective: 500px;
