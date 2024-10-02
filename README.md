@@ -1,2 +1,3 @@
-# projeto-jogo-de-memoria
- Jogo de memoria usando JavaScript
+# Project Memory Game
+
+## A game created using CSS and JavaScript.
